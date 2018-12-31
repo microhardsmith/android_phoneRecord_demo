@@ -1,0 +1,2 @@
+# android_phoneRecord_demo
+android项目，构建了通话记录，通讯录，根据手机号码查询号码归属地与第二天的天气的三个功能
