@@ -29,7 +29,7 @@ public class AddressLab {
         for(int i = 0;i < 100;i++){
             AddressModel model = new AddressModel();
             model.setName(namelist[i%10]);
-            model.setNumber("15271845019");
+            model.setNumber("10086");
             setPinYinForModel(model);
             mAddressModels.add(model);
         }
