@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Communication</string>
+    <string name="record">Phone Record</string>
+    <string name="people">Address Book</string>
+    <string name="message">Send Concern</string>
+    <string name="topmodule">My Application</string>
+    <string name="loading">Loading !</string>
+</resources>
